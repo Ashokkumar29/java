@@ -1,0 +1,13 @@
+class  As
+{
+	public static void main(String[] args) 
+	{
+		boolean flag=false;
+		if((flag==true)&&(flag==true))
+		{
+			System.out.println("if");
+		}
+		System.out.println("end");
+		System.out.println(flag);
+	}
+}

@@ -1,0 +1,12 @@
+class Animal 
+{
+	Animal()
+	{
+		System.out.println("ashok");
+	}
+
+	public static void main(String[] args) 
+	{
+		Animal A =new Animal();
+	}
+}
